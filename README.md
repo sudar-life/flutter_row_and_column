@@ -1,6 +1,6 @@
 # flutter_row_and_column
 
-Flutter 의 Row Widget과 Column Widget 에 옵션들이 헷갈리는 경험을 한번쯤 경험해 봤을 수 있습니다
+Flutter 의 Row Widget과 Column Widget 에 옵션들이 헷갈리는 경험을 한번쯤 경험해 봤을 수 있습니다  
 정확히 옵션을 이해를 돕기 위해 옵션 선택에 따른 화면 배치 및 문제풀이를 할 수 있도록 간단한 앱 입니다.
 
 
